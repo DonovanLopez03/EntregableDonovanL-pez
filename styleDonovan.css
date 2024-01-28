@@ -37,7 +37,7 @@ img {
 }
 
 .section-ordenado {
-    width: 90%;
+    width: 50%;
     margin: 0 auto 50px auto;
 }
 
@@ -45,6 +45,10 @@ ol {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+}
+
+li {
+    text-transform: uppercase;
 }
 
 footer {
