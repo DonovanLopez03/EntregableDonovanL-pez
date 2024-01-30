@@ -10,14 +10,12 @@ body {
 }
 
 header {
-    background-color: antiquewhite;
-    padding: 20px;
+    background-color: cornsilk;
 }
 
 h1,
 h2 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-weight: bolder;
     margin-bottom: 10px;
 }
 
@@ -37,7 +35,7 @@ img {
 }
 
 .section-ordenado {
-    width: 50%;
+    width: 80%;
     margin: 0 auto 50px auto;
 }
 
@@ -49,6 +47,13 @@ ol {
 
 li {
     text-transform: uppercase;
+}
+
+.img-perro2 {
+    border-radius: 35px;
+    max-width: 100%;
+    max-height: 100px;
+    margin: 0 auto;
 }
 
 footer {
