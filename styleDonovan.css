@@ -52,8 +52,13 @@ li {
 .img-perro2 {
     border-radius: 35px;
     max-width: 100%;
-    max-height: 100px;
     margin: 0 auto;
+}
+
+.img-perro3 {
+    border-radius: 50%;
+    height: 300px;
+    max-width: 100%;
 }
 
 footer {
